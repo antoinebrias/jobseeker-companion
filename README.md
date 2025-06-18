@@ -14,7 +14,7 @@ A Firefox extension to assist you during your job hunt on platforms like LinkedI
   Paste your CV and compare it with the current job offer page. Get a matching score and see which keywords are missing to help you tailor your application.
 
 - 💸 **Tip Me Feature**  
-  If you find this tool useful, consider supporting development with a small donation. 
+  If you find this tool useful, consider supporting development with a small donation (https://paypal.me/toinebrias 💖).
 
 ## 🖼️ Screenshot
 
