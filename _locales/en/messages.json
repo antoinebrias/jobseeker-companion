@@ -1,0 +1,19 @@
+{
+  "extensionName": {"message": "JobSeeker Companion"},
+  "extensionDescription": {"message": "Tools to support your job search."},
+  "copied": { "message": "📋 Link copied!" },
+  "deleteLink": { "message": "Delete this link" },
+  "linkNamePrompt": { "message": "Enter a name for the link:" },
+  "linkUrlPrompt": { "message": "Enter the URL" },
+  "saveOffer": { "message": "📌 Save job offer" },
+  "compatibilityScore": { "message": "📐 Match Score" },
+  "cvPlaceholder": { "message": "Paste your resume here..." },
+  "clipboard": { "message": "📋 Clipboard: left-click the icon to copy"},
+  "savedOffers": { "message": "📌 Saved offers"},
+  "quickMatch": { "message": "📐 Quick Match Score (beta)"},
+  "scoreLabel": { "message": "Match Score:"},
+  "coveredLabel": {"message": "Covered Keywords:"},
+  "missingLabel": {"message": "Missing Keywords:"},
+  "tipMe": { "message": "💖 Buy me a coffee" },
+  "tipMeTitle": { "message": "If you find add-on useful, you can support me!" }
+}

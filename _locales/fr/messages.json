@@ -1,0 +1,19 @@
+{
+  "extensionName": {"message": "Assistant Recherche d'Emploi"},
+  "extensionDescription": {"message": "Outils pour vous accompagner dans votre recherche d'emploi."},
+  "copied": { "message": "📋 Lien copié !" },
+  "deleteLink": { "message": "Supprimer ce lien" },
+  "linkNamePrompt": { "message": "Entrez un nom pour le lien :" },
+  "linkUrlPrompt": { "message": "Entrez l’URL" },
+  "saveOffer": { "message": "📌 Enregistrer l'offre" },
+  "compatibilityScore": { "message": "📐 Score de compatibilité" },
+  "cvPlaceholder": { "message": "Collez ici votre CV..." },
+  "clipboard": { "message": "📋 Presse-papier : clic-gauche sur l’icône pour copier"},
+  "savedOffers": { "message": "📌 Offres enregistrées"},
+  "quickMatch": { "message": "📐 Calcul de score de compatibilité (beta)"},
+  "scoreLabel": { "message": "Score de correspondance :"},
+  "coveredLabel": {"message": "Mots-clés trouvés :"},
+  "missingLabel": {"message": "Mots-clés manquants :"},
+  "tipMe": { "message": "💖"},
+  "tipMeTitle": { "message": "Si tu trouves cette extension utile, tu peux me soutenir !" }
+}

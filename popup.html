@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h2 id="title" data-i18n="extensionName"></h2>
+  <hr>
+
+  <strong></strong><p id="clipboardLabel" data-i18n="clipboard"></p></strong>
+  <div id="iconLinks" class="icon-container"></div>
+  <hr>
+
+
+  <strong></strong><p id="offersLabel" data-i18n="savedOffers"></p></strong>
+  <div id="savedOffers" class="offer-container"></div>
+  <hr>
+
+  <strong></strong><p id="matchLabel" data-i18n="quickMatch"></p></strong>
+  <textarea id="cvInput" data-i18n-placeholder="cvPlaceholder"></textarea>
+  <div id="matchResult">
+    <strong><span id="scoreLabel" data-i18n="scoreLabel"></span> <span id="scoreValue"></span></strong><br>
+    <span id="coveredLabel" data-i18n="coveredLabel"></span> <span id="coveredValue"></span><br>
+    <span id="missingLabel" data-i18n="missingLabel"></span> <span id="missingValue"></span>
+  </div>
+
+
+  <div class="footer-bar">
+    <a href="https://paypal.me/toinebrias" target="_blank" class="tip-me-button" data-i18n="tipMe" data-i18n-title="tipMeTitle" title="">
+      💖 Buy me a coffee
+    </a>
+    
+    <span id="versionLabel" class="version-label">v?</span>
+
+
+  </div>
+
+  <div id="tooltip" class="tooltip"></div>
+
+
+
+  <script src="popup.js"></script>
+
+  
+</body>
+</html>
