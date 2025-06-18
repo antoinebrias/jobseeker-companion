@@ -34,9 +34,9 @@ To install it manually:
 3. Click **"Load Temporary Add-on"**
 4. Select the `manifest.json` file
 
-## 🧾 License
+## 🧾 License : Mozilla Public License Version 2.0
 
-Mozilla Public License Version 2.0
+
 ---
 
 > *Built with love to make job hunting a bit less painful.*
