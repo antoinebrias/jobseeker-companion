@@ -1,6 +1,7 @@
 # JobSeeker Companion 🧭
 
-A Firefox extension to assist you during your job hunt on platforms like LinkedIn and others.
+A Firefox ![add-on](https://addons.mozilla.org/en-US/firefox/addon/jobseeker-companion/) to assist you during your job hunt on platforms like LinkedIn and others.
+
 
 ## ✨ Features
 
